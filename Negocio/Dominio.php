@@ -33,6 +33,7 @@ class Dominio{
 
      /**
      * Code Payment plan
+     * borrar
      *
      * @return int
      */ 
